@@ -11,11 +11,10 @@ Developed in VS Code and presented as a Jupyter Notebook.
 
 ## Project Structure
 - `titanic_analysis.ipynb` — Main Jupyter Notebook (analysis + visualizations)
-- `train.csv` — Kaggle Titanic dataset
+- `* `train.csv` — Kaggle Titanic dataset (not included) — download it from [Kaggle](https://www.kaggle.com/c/titanic/data)
 
 ## How to Run
 1. Clone the repository
 2. Install dependencies : `pip install pandas numpy matplotlib seaborn jupyter`
 3. Open `titanic_analysis.ipynb` in Jupyter Notebook
 
-> **Note :** `train.csv` is not included. Download it from [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/data).
