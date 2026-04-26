@@ -6,3 +6,4 @@ Developed in VS Code and presented as a Jupyter Notebook.
 ## Key Findings
 - Female'survival is higher than Men's : Women 74%, Men 19%.
 - The higher the class is, the better the chances of survival are : First class 63%, Second class 47%, Third class 24%.
+- Children have more chances of survival than Adultes and Elders : Children 50%, Adulte 36%, Elder 23%.
