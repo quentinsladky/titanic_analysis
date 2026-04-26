@@ -3,6 +3,9 @@ An exploratory analysis of the decisive factors for survival aboard the Titanic,
 Stack : Python, Pandas, NumPy, Matplotlib, Seaborn. 
 Developed in VS Code and presented as a Jupyter Notebook. 
 
+## Preview 
+[View the notebook on nbviewer](https://nbviewer.org/github/quentinsladky/titanic_analysis/blob/main/titanic_analysis.ipynb)
+
 ## Key Findings
 - Female survival is higher than Men's : Women 74%, Men 19%.
 - The higher the class is, the better the chances of survival are : First class 63%, Second class 47%, Third class 24%.
