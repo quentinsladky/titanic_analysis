@@ -4,4 +4,4 @@ Stack : Python, Pandas, NumPy, Matplotlib, Seaborn.
 Developed in VS Code and presented as a Jupyter Notebook. 
 
 ## Key Findings
--
+- Female'survival is higher than Men's : Women 74%, Men 19%.
